@@ -16,10 +16,6 @@ int main()
   {
     cout << "NO SOLUTION";
   }
-  else if (n == 4)
-  {
-    cout << "2 4 1 3";
-  }
   else
   {
     if (n % 2 == 0)
